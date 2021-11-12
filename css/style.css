@@ -16,11 +16,12 @@ body {
 #subBar{
     width: 30%;
     height: 250px;
-    margin-left:66.1%;
+    margin-left:65%;
     position:absolute;
     background-color:rgb(33, 32, 32);
-        color:white;
-        border-radius:50px;
+    color:white;
+    border-radius:50px;
+
 }
 
 #topBar{
