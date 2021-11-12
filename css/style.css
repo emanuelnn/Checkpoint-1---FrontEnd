@@ -30,6 +30,9 @@ body {
     position:absolute;
     background-color:rgb(33, 32, 32);
     color:white;
+    padding: 30px;
+    
+    
 }
 
 #video{
